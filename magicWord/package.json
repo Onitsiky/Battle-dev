@@ -1,0 +1,20 @@
+{
+  "name": "codes",
+  "version": "1.0.0",
+  "type" : "module",
+  "description": "",
+  "main": "magicWord.js",
+  "scripts": {
+    "test": "mocha './magicWord.test.js' "
+  },
+  "keywords": [],
+  "author": "Onitsiky",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.2"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
